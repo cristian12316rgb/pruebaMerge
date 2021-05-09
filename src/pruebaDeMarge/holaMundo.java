@@ -5,9 +5,10 @@ public class holaMundo {
 		
 	}
 	
-	public double holaMundo() {
-		System.out.println("holaMundo");
-		return 150;
+	public int gaby() {
+		System.out.println("probando merge");
+		
+		return 1342342345;
 	}
 
 }

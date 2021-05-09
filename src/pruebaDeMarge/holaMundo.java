@@ -5,9 +5,9 @@ public class holaMundo {
 		
 	}
 	
-	public Integer holaMundo() {
+	public double holaMundo() {
 		System.out.println("holaMundo");
-		return 100;
+		return 150;
 	}
 
 }
